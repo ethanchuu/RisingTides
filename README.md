@@ -22,4 +22,7 @@ The RisingTides.java file includes the following methods for implementation:
 - heightAboveWater: Calculates the visible height of a location above water.
 - totalVisibleLand: Calculates the total number of visible land cells.
 
-Example outputs from the visualizer for BayArea.terrain at various water heights.
+Example outputs from the visualizer for RioDeJaneiro.terrain at various water heights.
+
+<img width="970" alt="Screenshot 2024-12-12 at 12 01 22 AM" src="https://github.com/user-attachments/assets/eac5f45d-58f6-4e9d-a70f-a7becbe0f626" />
+
