@@ -1,8 +1,9 @@
 # RisingTides
 Data Structures | Rising Tides
 
-Overview
-In this assignment, you will see the effects of rising sea levels on various major cities around the
+Overview:
+
+You will see the effects of rising sea levels on various major cities around the
 world using 2-D arrays. You will practice array manipulation, referencing objects, the Weighted
 UnionFind algorithm, and the object-oriented programming (OOP) paradigm.
 Implementation
@@ -42,6 +43,8 @@ Executing and Debugging (Terminal/VSC):
 2. Compile: javac -d bin src/tides/*.java
 3. Execute: java -cp bin tides.Driver
 
-
+Credit:
+Keith Schwarz : Stanford University
+Vian Miranda : Rutgers University-New Brunswick
 _____________________
 
