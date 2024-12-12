@@ -22,7 +22,26 @@ The RisingTides.java file includes the following methods for implementation:
 - heightAboveWater: Calculates the visible height of a location above water.
 - totalVisibleLand: Calculates the total number of visible land cells.
 
+
+_____________________
 Example outputs from the visualizer for RioDeJaneiro.terrain at various water heights.
 
-<img width="970" alt="Screenshot 2024-12-12 at 12 01 22 AM" src="https://github.com/user-attachments/assets/eac5f45d-58f6-4e9d-a70f-a7becbe0f626" />
+
+<img width="871" alt="Screenshot 2024-12-12 at 12 07 46 AM" src="https://github.com/user-attachments/assets/013c66d0-08b7-4469-9afb-c67ad25a0a94" />
+
+TelkaAMaui.terrain
+
+
+<img width="869" alt="Screenshot 2024-12-12 at 12 08 08 AM" src="https://github.com/user-attachments/assets/58bfc6cd-a506-460c-8fe9-d2cf7caac74c" />
+
+RioDeJaneiro.terrain
+
+_____________________
+Executing and Debugging (Terminal/VSC):
+1. Navigate to RisingTides directory folder
+2. Compile: javac -d bin src/tides/*.java
+3. Execute: java -cp bin tides.Driver
+
+
+_____________________
 
