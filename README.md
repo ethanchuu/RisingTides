@@ -44,7 +44,7 @@ Executing and Debugging (Terminal/VSC):
 3. Execute: java -cp bin tides.Driver
 
 Credit:
-Keith Schwarz : Stanford University
-Vian Miranda : Rutgers University-New Brunswick
+- Keith Schwarz : Stanford University
+- Vian Miranda : Rutgers University-New Brunswick
 _____________________
 
